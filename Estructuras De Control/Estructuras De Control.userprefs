@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjercicioEstrControl2/Main.cs">
+    <Files>
+      <File FileName="If/Main.cs" Line="1" Column="1" />
+      <File FileName="If2/Main.cs" Line="9" Column="48" />
+      <File FileName="Break/Main.cs" Line="12" Column="34" />
+      <File FileName="EjercicioEstrControl2/Main.cs" Line="26" Column="1" />
+      <File FileName="EjercicioEstrControl3/Main.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="Break" expanded="True" />
+          <Node name="EjercicioEstrControl2" expanded="True" />
+          <Node name="EjercicioEstrControl3" expanded="True" />
+          <Node name="EjercicioEstrControl4" expanded="True" />
+          <Node name="If2" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/rafael/CursoCSharp/Estructuras De Control/EjercicioEstrControl2/Main.cs" line="53" />
+      <Breakpoint file="/home/rafael/Documentos/Curso Csharp/Código Fuente/Estructuras De Control/Break/Main.cs" line="16" />
+      <Breakpoint file="/home/rafael/Documentos/Curso Csharp/Código Fuente/Estructuras De Control/Break/Main.cs" line="14" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
