@@ -30,7 +30,11 @@ namespace DestructorDelMundo
 								Console.Beep(880, 500 / j); /*Pitar a 880Hz durante 500/j ms*/
 								
 							}
-							//Thread.Sleep(1000); /*System.Threading.Thread.Sleep(1000) duerme el programa durante 1000ms*/
+
+							if(Environment.OSVersion.Platform == PlatformID.Unix) /*Lo de dentro de este if solo se ejecuta en *nix*/
+							{
+								Thread.Sleep(500); /*System.Threading.Thread.Sleep(1000) duerme el programa durante 1000ms*/
+							}
 						}
 						Console.WriteLine("Mundo destruido");
 						break;
