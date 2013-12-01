@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones", "Funciones\Funciones.csproj", "{3CE14D85-A14C-4E7B-A901-E05F628E7CA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioFunc1", "EjercicioFunc1\EjercicioFunc1.csproj", "{97917442-073A-4BB6-9E65-9025FC23906D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioFunc2", "EjercicioFunc2\EjercicioFunc2.csproj", "{AD1C8730-FDB4-433D-A445-F04475326560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioFunc3", "EjercicioFunc3\EjercicioFunc3.csproj", "{47C0323A-4E32-4ABA-8B60-0580AD6D1CFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioFunc4", "EjercicioFunc4\EjercicioFunc4.csproj", "{10C21A4A-E369-41A3-8C3B-E69C776166AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C21A4A-E369-41A3-8C3B-E69C776166AE}.Debug|x86.ActiveCfg = Debug|x86
+		{10C21A4A-E369-41A3-8C3B-E69C776166AE}.Debug|x86.Build.0 = Debug|x86
+		{10C21A4A-E369-41A3-8C3B-E69C776166AE}.Release|x86.ActiveCfg = Release|x86
+		{10C21A4A-E369-41A3-8C3B-E69C776166AE}.Release|x86.Build.0 = Release|x86
+		{3CE14D85-A14C-4E7B-A901-E05F628E7CA5}.Debug|x86.ActiveCfg = Debug|x86
+		{3CE14D85-A14C-4E7B-A901-E05F628E7CA5}.Debug|x86.Build.0 = Debug|x86
+		{3CE14D85-A14C-4E7B-A901-E05F628E7CA5}.Release|x86.ActiveCfg = Release|x86
+		{3CE14D85-A14C-4E7B-A901-E05F628E7CA5}.Release|x86.Build.0 = Release|x86
+		{47C0323A-4E32-4ABA-8B60-0580AD6D1CFD}.Debug|x86.ActiveCfg = Debug|x86
+		{47C0323A-4E32-4ABA-8B60-0580AD6D1CFD}.Debug|x86.Build.0 = Debug|x86
+		{47C0323A-4E32-4ABA-8B60-0580AD6D1CFD}.Release|x86.ActiveCfg = Release|x86
+		{47C0323A-4E32-4ABA-8B60-0580AD6D1CFD}.Release|x86.Build.0 = Release|x86
+		{97917442-073A-4BB6-9E65-9025FC23906D}.Debug|x86.ActiveCfg = Debug|x86
+		{97917442-073A-4BB6-9E65-9025FC23906D}.Debug|x86.Build.0 = Debug|x86
+		{97917442-073A-4BB6-9E65-9025FC23906D}.Release|x86.ActiveCfg = Release|x86
+		{97917442-073A-4BB6-9E65-9025FC23906D}.Release|x86.Build.0 = Release|x86
+		{AD1C8730-FDB4-433D-A445-F04475326560}.Debug|x86.ActiveCfg = Debug|x86
+		{AD1C8730-FDB4-433D-A445-F04475326560}.Debug|x86.Build.0 = Debug|x86
+		{AD1C8730-FDB4-433D-A445-F04475326560}.Release|x86.ActiveCfg = Release|x86
+		{AD1C8730-FDB4-433D-A445-F04475326560}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = EjercicioFunc2\EjercicioFunc2.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchBody = True
+		$2.AnonymousMethodBraceStyle = NextLine
+		$2.PropertyBraceStyle = NextLine
+		$2.PropertyGetBraceStyle = NextLine
+		$2.PropertySetBraceStyle = NextLine
+		$2.EventBraceStyle = NextLine
+		$2.EventAddBraceStyle = NextLine
+		$2.EventRemoveBraceStyle = NextLine
+		$2.StatementBraceStyle = NextLine
+		$2.ArrayInitializerBraceStyle = NextLine
+		$2.BeforeMethodDeclarationParentheses = False
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.NewParentheses = False
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal

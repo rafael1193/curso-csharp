@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrices", "Matrices\Matrices.csproj", "{B4B76514-17AB-4DF8-9D5A-047AC91EA424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TamañoMatrices", "TamañoMatrices\TamañoMatrices.csproj", "{E97895F2-9CF8-4673-AC77-48B714A42613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadenaComoMatriz", "CadenaComoMatriz\CadenaComoMatriz.csproj", "{FF1B0DC3-1D79-41EF-BA68-FA1C4357BBA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrizMultiEIrregular", "MatrizMultiEIrregular\MatrizMultiEIrregular.csproj", "{38286CEC-2D76-4D2F-B6ED-F446D9DD110B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioMatrices1", "EjercicioMatrices1\EjercicioMatrices1.csproj", "{DA0DD43B-5F62-46D2-9C44-5EE2918D8B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioMatrices2", "EjercicioMatrices2\EjercicioMatrices2.csproj", "{96E5F1E9-E08F-4870-95DC-1BC97B5B7B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioMatrices3", "EjercicioMatrices3\EjercicioMatrices3.csproj", "{45146608-6C57-486E-895D-016D32EC64FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioMatrices2Plantilla", "EjercicioMatrices2Plantilla\EjercicioMatrices2Plantilla.csproj", "{5CF4E827-EF67-4249-A6B6-15A6C1CEA5AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38286CEC-2D76-4D2F-B6ED-F446D9DD110B}.Debug|x86.ActiveCfg = Debug|x86
+		{38286CEC-2D76-4D2F-B6ED-F446D9DD110B}.Debug|x86.Build.0 = Debug|x86
+		{38286CEC-2D76-4D2F-B6ED-F446D9DD110B}.Release|x86.ActiveCfg = Release|x86
+		{38286CEC-2D76-4D2F-B6ED-F446D9DD110B}.Release|x86.Build.0 = Release|x86
+		{45146608-6C57-486E-895D-016D32EC64FC}.Debug|x86.ActiveCfg = Debug|x86
+		{45146608-6C57-486E-895D-016D32EC64FC}.Debug|x86.Build.0 = Debug|x86
+		{45146608-6C57-486E-895D-016D32EC64FC}.Release|x86.ActiveCfg = Release|x86
+		{45146608-6C57-486E-895D-016D32EC64FC}.Release|x86.Build.0 = Release|x86
+		{5CF4E827-EF67-4249-A6B6-15A6C1CEA5AF}.Debug|x86.ActiveCfg = Debug|x86
+		{5CF4E827-EF67-4249-A6B6-15A6C1CEA5AF}.Debug|x86.Build.0 = Debug|x86
+		{5CF4E827-EF67-4249-A6B6-15A6C1CEA5AF}.Release|x86.ActiveCfg = Release|x86
+		{5CF4E827-EF67-4249-A6B6-15A6C1CEA5AF}.Release|x86.Build.0 = Release|x86
+		{96E5F1E9-E08F-4870-95DC-1BC97B5B7B00}.Debug|x86.ActiveCfg = Debug|x86
+		{96E5F1E9-E08F-4870-95DC-1BC97B5B7B00}.Debug|x86.Build.0 = Debug|x86
+		{96E5F1E9-E08F-4870-95DC-1BC97B5B7B00}.Release|x86.ActiveCfg = Release|x86
+		{96E5F1E9-E08F-4870-95DC-1BC97B5B7B00}.Release|x86.Build.0 = Release|x86
+		{B4B76514-17AB-4DF8-9D5A-047AC91EA424}.Debug|x86.ActiveCfg = Debug|x86
+		{B4B76514-17AB-4DF8-9D5A-047AC91EA424}.Debug|x86.Build.0 = Debug|x86
+		{B4B76514-17AB-4DF8-9D5A-047AC91EA424}.Release|x86.ActiveCfg = Release|x86
+		{B4B76514-17AB-4DF8-9D5A-047AC91EA424}.Release|x86.Build.0 = Release|x86
+		{DA0DD43B-5F62-46D2-9C44-5EE2918D8B63}.Debug|x86.ActiveCfg = Debug|x86
+		{DA0DD43B-5F62-46D2-9C44-5EE2918D8B63}.Debug|x86.Build.0 = Debug|x86
+		{DA0DD43B-5F62-46D2-9C44-5EE2918D8B63}.Release|x86.ActiveCfg = Release|x86
+		{DA0DD43B-5F62-46D2-9C44-5EE2918D8B63}.Release|x86.Build.0 = Release|x86
+		{E97895F2-9CF8-4673-AC77-48B714A42613}.Debug|x86.ActiveCfg = Debug|x86
+		{E97895F2-9CF8-4673-AC77-48B714A42613}.Debug|x86.Build.0 = Debug|x86
+		{E97895F2-9CF8-4673-AC77-48B714A42613}.Release|x86.ActiveCfg = Release|x86
+		{E97895F2-9CF8-4673-AC77-48B714A42613}.Release|x86.Build.0 = Release|x86
+		{FF1B0DC3-1D79-41EF-BA68-FA1C4357BBA1}.Debug|x86.ActiveCfg = Debug|x86
+		{FF1B0DC3-1D79-41EF-BA68-FA1C4357BBA1}.Debug|x86.Build.0 = Debug|x86
+		{FF1B0DC3-1D79-41EF-BA68-FA1C4357BBA1}.Release|x86.ActiveCfg = Release|x86
+		{FF1B0DC3-1D79-41EF-BA68-FA1C4357BBA1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Matrices\Matrices.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.IndentSwitchBody = True
+		$2.AnonymousMethodBraceStyle = NextLine
+		$2.PropertyBraceStyle = NextLine
+		$2.PropertyGetBraceStyle = NextLine
+		$2.PropertySetBraceStyle = NextLine
+		$2.EventBraceStyle = NextLine
+		$2.EventAddBraceStyle = NextLine
+		$2.EventRemoveBraceStyle = NextLine
+		$2.StatementBraceStyle = NextLine
+		$2.ArrayInitializerBraceStyle = NextLine
+		$2.BeforeMethodDeclarationParentheses = False
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.NewParentheses = False
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal
